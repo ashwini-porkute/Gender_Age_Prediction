@@ -2,7 +2,7 @@
 
 Provided requirements.txt for environmental packages or libraries needed to execute the script.
 
-Note: Please run the script on good RAM system as it may get killed while training due to out of memory issues.
+**Note**: Please run the script on good RAM system as it may get killed while training due to out of memory issues.
 
 # References:
 YouTube: https://www.youtube.com/watch?v=vEJzsGXrB70
