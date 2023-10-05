@@ -1,5 +1,4 @@
-# Gender Age Prediction using Keras Functional model.
-# (Model with 1 input and 2 outputs)
+# Gender Age Prediction using Keras Functional model. (Model with 1 input and 2 outputs)
 
 Provided requirements.txt for environmental packages or libraries needed to execute the script.
 
