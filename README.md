@@ -1,4 +1,5 @@
-# Gender Age Prediction using Keras Functional model.(model with 1 input and 2 outputs)
+# Gender Age Prediction using Keras Functional model.
+# (Model with 1 input and 2 outputs)
 
 Provided requirements.txt for environmental packages or libraries needed to execute the script.
 
@@ -13,7 +14,6 @@ UTKFace Dataset from kaggle (https://www.kaggle.com/datasets/jangedoo/utkface-ne
 
 
 # Steps:
----------
 1. Import Libraries
 2. Converting Dataset to Pandas Dataframe.
 3. EDA (Exploratory Data Analysis)
